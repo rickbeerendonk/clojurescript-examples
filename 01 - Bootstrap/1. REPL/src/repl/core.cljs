@@ -1,3 +1,3 @@
-(ns hello-world.core)
+(ns repl.core)
 
 (println "Hello world!")

@@ -1,1 +1,0 @@
-java -cp "cljs.jar;src" cljs.main --optimizations advanced -c repl.core

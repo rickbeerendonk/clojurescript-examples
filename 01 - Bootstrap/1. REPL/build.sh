@@ -1,1 +1,0 @@
-clj -m cljs.main --optimizations advanced -c repl.core

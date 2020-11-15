@@ -1,0 +1,1 @@
+clj --main cljs.main --compile node-repl.core --repl

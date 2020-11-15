@@ -1,0 +1,1 @@
+clj --main cljs.main --compile web-repl.core --repl
